@@ -1,3 +1,4 @@
+![ssl_diagram](https://user-images.githubusercontent.com/80331448/113724322-e8673380-96fa-11eb-9297-f13ab5819d83.png)
 # SSL_HM
 Semi supervised learning with histogram matching
 
