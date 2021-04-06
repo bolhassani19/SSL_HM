@@ -1,4 +1,4 @@
-![ssl_diagram](https://user-images.githubusercontent.com/80331448/113724322-e8673380-96fa-11eb-9297-f13ab5819d83.png)
+
 # SSL_HM
 Semi supervised learning with histogram matching
 
@@ -10,3 +10,5 @@ In order to improve the results of this step, we applied histogram matching.
 The first step allows us to both improve the generalizability of our model in out-of-distribution data and increase the size of our training data.
 
 Next step is to merge data and start training again with new data. In this manner we leverage the unlabeled data to enhance the performance of our model without the need for more labeled data which is certainly expensive.
+
+![ssl_diagram](https://user-images.githubusercontent.com/80331448/113724322-e8673380-96fa-11eb-9297-f13ab5819d83.png)
